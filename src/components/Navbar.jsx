@@ -6,7 +6,7 @@ const menus = [
   { title: "About", id: "about" },
   { title: "Projects", id: "projects" },
   { title: "Skills", id: "skills" },
-  { title: "Experience", id: "experience" },
+  //{ title: "Experience", id: "experience" },
   { title: "Contact", id: "contact" },
 ];
 

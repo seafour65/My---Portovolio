@@ -46,23 +46,18 @@ export default function Contact() {
               {
                 icon: <FaEnvelope />,
                 title: "Email",
-                value: "youremail@gmail.com",
+                value: "saefurohman65@gmail.com",
               },
               {
                 icon: <FaWhatsapp />,
                 title: "WhatsApp",
-                value: "+62 812 xxxx xxxx",
+                value: "+62 8953 7230 7888",
               },
               {
                 icon: <FaLinkedin />,
                 title: "LinkedIn",
-                value: "linkedin.com/in/username",
-              },
-              {
-                icon: <FaGithub />,
-                title: "GitHub",
-                value: "github.com/username",
-              },
+                value: "linkedin.com/in/saefurohman",
+              },            
             ].map((item, index) => (
 
               <div

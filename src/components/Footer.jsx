@@ -27,7 +27,7 @@ export default function Footer() {
         {/* Social */}
         <div className="flex justify-center gap-6 mt-10">
 
-          <a
+          {/* <a
             href="#"
             className="
               w-12
@@ -46,7 +46,7 @@ export default function Footer() {
             "
           >
             <FaGithub size={22} />
-          </a>
+          </a> */}
 
           <a
             href="#"
